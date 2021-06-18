@@ -3,7 +3,7 @@ package taimoor.sultani.customlog;
 import android.util.Log;
 
 public class CustomLogs {
-    public static String TAG = "MyCustomLogs";
+    public static String TAG = "MyCustomLogsUpdated";
 
     public static void d(String message) {
         Log.d(TAG, message);
